@@ -42,6 +42,12 @@ Thumbs.db
 # Specific directories #
 ########################
 project/project/
-project/target/
 project/.bloop/
+
+proxyPrime/target
+primeServer/target
 target/
+
+gen-java
+/primeServer/gen-java
+.bsp
